@@ -1,4 +1,4 @@
-<div align="center"><img height="450" width="800" src="https://www.cisco.com/c/dam/m/es_mx/solutions/enterprise-networks/secure-network-access/nb-06-access-networking-checklist-cte-en/img/dna-helix-800x450.gif"></div>
+<div align="center"><img src="https://www.cisco.com/c/dam/m/es_mx/solutions/enterprise-networks/secure-network-access/nb-06-access-networking-checklist-cte-en/img/dna-helix-800x450.gif"></div>
 
 <h1 align="center">Hi 👋, I'm Edison Vaca | W4ssonX </h1>
 
