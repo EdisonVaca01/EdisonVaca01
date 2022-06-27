@@ -59,12 +59,12 @@
 
   <img align="center" alt="W4ss0nX-NMAP"  height="44" width="54" src="https://nmap.org/images/sitelogo.png" />
   
+  <img align="center" alt="W4ss0nX-LANGUARD"  height="44" width="54" src="http://www.techtalk.gfi.com/wp-content/uploads/2012/07/languard-blog-launch-3.jpg"/>
 
+  <img align="center" alt="W4ss0nX-NESSUS"  height="44" width="54" src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/5c5a52bf-7df5-4ea3-98ef-6d51f8d80c6d.png?auto=format&q=50&w=128&h=128&fit=max&dpr=3"/>
   
-  <br>
-
-
-                                                                                                      
+  <br><br><br>
+                                                                                                   
 </div>
 
 
