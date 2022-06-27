@@ -1,5 +1,3 @@
-<div align="center"><img src="https://www.cisco.com/c/dam/m/es_mx/solutions/enterprise-networks/secure-network-access/nb-06-access-networking-checklist-cte-en/img/dna-helix-800x450.gif"></div>
-
 <h1 align="center">Hi 👋, I'm Edison Vaca | W4ssonX </h1>
 
 <h3 align="center">A passionate in the world of Cybersecurity as well as in the creation and distribution of networks from Spain</h3>
