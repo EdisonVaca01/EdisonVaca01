@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edison Vaca | W4ssonX </h1>
+<h1 align="center">Hi 👋, I'm Edison Vaca </h1>
 
 <h3 align="center">A passionate in the world of Cybersecurity as well as in the creation and distribution of networks from Spain</h3>
 
