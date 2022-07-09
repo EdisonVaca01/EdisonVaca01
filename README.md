@@ -21,13 +21,12 @@
 <div style="display:inline_block">
 
 <h3 align="left">Connect with me:</h3>
-
+  
 <p align="left">
-
- <a href="https://linkedin.com/in/www.linkedin.com/in/edison-vaca-perseverance" target="blank"><img align="center" src="https://raw.githubusercontent.com         /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/edison-vaca-perseverance" height="30"   width="40" /></a>
-
- <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxdkibs8r2tyslbto2bhfcw" target="blank"><img align="center"                                   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com     /channel/ucxdkibs8r2tyslbto2bhfcw" height="30" width="40" /></a>
-
+  
+  <a href="https://linkedin.com/in/edison-vaca-cifuentes-perseverance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edison-vaca-cifuentes-perseverance" height="44" width="54" /></a>
+  <a href="https://www.youtube.com/channel/UCxdKIbS8r2TYslbto2BHfCw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucxdkibs8r2tyslbto2bhfcw" height="44" width="54" /></a>
+  
 </p>
   
   <h3 align = "left">Language</h3>
@@ -72,11 +71,5 @@
                                                                                                    
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edisonvaca01&show_icons=true&locale=en&layout=compact" alt="edisonvaca01" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edisonvaca01&show_icons=true&locale=en" alt="edisonvaca01" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edisonvaca01&" alt="edisonvaca01" /></p>
 
 
