@@ -17,14 +17,19 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align= "left">Connect with me:</h3>
-  
-<a href="https://linkedin.com/in/edison-vaca-cifuentes-perseverance" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edison-vaca-cifuentes-perseverance" height="30" width="40" /></a>
-</p>
 
 <div style="display:inline_block">
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+ <a href="https://linkedin.com/in/www.linkedin.com/in/edison-vaca-perseverance" target="blank"><img align="center" src="https://raw.githubusercontent.com         /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/edison-vaca-perseverance" height="30"   width="40" /></a>
+
+ <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxdkibs8r2tyslbto2bhfcw" target="blank"><img align="center"                                   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com     /channel/ucxdkibs8r2tyslbto2bhfcw" height="30" width="40" /></a>
+
+</p>
   
-            
   <h3 align = "left">Language</h3>
 
   <img align="center" alt="W4ss0nX-JS" height="44" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
